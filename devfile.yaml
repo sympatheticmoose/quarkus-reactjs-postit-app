@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  name: postit-app-8467y
+  generateName: postit-app-
 projects:
   - name: quarkus-reactjs-postit-app
     source:

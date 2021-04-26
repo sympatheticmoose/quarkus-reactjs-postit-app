@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: quarkus-reactjs-postit-app
     source:
-      location: 'https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app.git'
+      location: 'https://github.com/sympatheticmoose/quarkus-reactjs-postit-app.git'
       type: github
       branch: master
 components:
